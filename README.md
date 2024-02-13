@@ -6,18 +6,6 @@
 <h3>Welcome to the Github of the Whiskey Coder</h3> 
 </div>
 
-<div id="badges" align="center">
-  <a href="URL TO BE ADDED LATER">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="URL TO BE ADDED LATER">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
-</div>
-
 
 ---
 ### :man_technologist: About Me :
@@ -26,7 +14,7 @@ I am actually a new coder, I come from the world of security, love to have fun, 
 - :telescope: I work in security, and have nothing to do with coding at all...
 - :seedling: I code because its fun, and I end up getting wacky ideas that lead to some fun projects
 - :zap: In my free time, I code, those wacky projects
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-WhiskeyCoder-blue?style=flat&logo=Linkedin&logoColor=white)](TO BE ADDED)
+- :mailbox:How to reach me: (TO BE ADDED)
 
 
 ### :hammer_and_wrench: Languages and Tools :
