@@ -14,7 +14,8 @@ I am actually a new coder, I come from the world of security, love to have fun, 
 - :telescope: I work in security, and have nothing to do with coding at all...
 - :seedling: I code because its fun, and I end up getting wacky ideas that lead to some fun projects
 - :zap: In my free time, I code, those wacky projects
-- :mailbox:How to reach me: (TO BE ADDED)
+- :hammer_and_wrench: 3d Printing [Makerworld](https://makerworld.com/en/u/1366979090)
+- :mailbox: How to reach me: (TO BE ADDED)
 
 
 ### :hammer_and_wrench: Languages and Tools :
