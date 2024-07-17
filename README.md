@@ -3,7 +3,7 @@
 </div>
 
 <div id="header" align="center">
-<h3>Welcome to the Github of the Whiskey Coder</h3> 
+<h3>Welcome to the Github of Whiskey Coder</h3> 
 </div>
 
 
