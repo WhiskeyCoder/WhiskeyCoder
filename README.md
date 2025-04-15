@@ -53,7 +53,7 @@ I drink good whiskey, write questionable commits, and dream up tech that probabl
 > I just didn’t wait for permission to build it anyway.
 
 
-### 📬 Contact
+### 📬 Contact: [Open an issue on any repo]
 WIP – Contact info coming soon.  
 But feel free to raise an issue on any repo I’ve built — I’ll see it.
 
