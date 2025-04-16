@@ -64,6 +64,7 @@ I’m not a rockstar dev. I’m the dev you call when the stars are on fire and 
 
 
 ### :fire: My Stats :
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WhiskeyCoder&show_icons=true&theme=dark)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=WhiskeyCoder&theme=dark)](https://git.io/streak-stats)
 
 
