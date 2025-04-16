@@ -64,9 +64,7 @@ I’m not a rockstar dev. I’m the dev you call when the stars are on fire and 
 
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=WhiskeyCoder&theme=dark)](https://git.io/streak-stats)
 
 
 ---
