@@ -6,7 +6,7 @@
 <h3>Welcome to the Github of Whiskey Coder</h3> 
 </div>
 
-
+ 
 ---
 ### :man_technologist: About Me :
 I come from a security background, but once I picked up coding, I couldn’t put it down.  
@@ -14,11 +14,11 @@ What started as whiskey-fueled curiosity turned into a collection of useful, cha
 
 Now, I build:
 - 🤖 AI-powered tools using local LLMs
-- 🤖 ML models and agents for random purposes like a ML model that determins the best beer to mix with pizza and then orders pizza
+- 🤖 ML models and agents for random purposes like a ML model that determines the best beer to mix with pizza and then orders pizza
 - 🔁 Automated systems like **Auto-Pusher**
 - 🧪 Experiment-heavy code driven by curiosity
 - 🧱 Tools that solve problems I didn’t know I had (until I built them)
-- And something I just learned is called a code Popeline ????
+- And something I just learned is called a code Pipeline ????
 
 > My projects are built from problem-solving, boredom, or the occasional “What if I made this real?”
 > .... also i keep forgeting to setup any version control.... so what you see is what you get lol 
@@ -71,4 +71,4 @@ I’m not a rockstar dev. I’m the dev you call when the stars are on fire and 
 ---
 
 ### :writing_hand: Blog Posts :
-<h4 align="center"> Comming Soon<h4>
+<h4 align="center"> Coming Soon<h4>
