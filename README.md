@@ -44,6 +44,9 @@ Now, I build:
   <img src="https://github.com/devicons/devicon/blob/master/icons/digitalocean/digitalocean-original.svg" title="DigitalOcean" alt="DigitalOcean" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/elasticsearch/elasticsearch-original.svg" title="elasticsearch" alt="elasticsearch" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kali-Dark.svg" title="Kali" alt="Kali" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Windows-Dark.svg" title="Windows" alt="Windows" width="40" height="40"/>&nbsp;
+  <img src="https://avatars.githubusercontent.com/u/52133374?s=200" title="n8n" alt="n8n" width="40" height="40"/>&nbsp;
 </div>
 
 
