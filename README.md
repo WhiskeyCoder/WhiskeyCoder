@@ -69,6 +69,7 @@ I’m not a rockstar dev. I’m the dev you call when the stars are on fire and 
 ### :fire: My Stats :
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WhiskeyCoder&show_icons=true&theme=dark)
 
+<img src="https://raw.githubusercontent.com/WhiskeyCoder/WhiskeyCoder/output/snake.svg" alt="Snake animation" />
 
 ---
 
