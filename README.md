@@ -42,7 +42,7 @@ class WhiskeyCoder:
 </div>
 
 ### **🎯 Active Projects:**
-- **🕵️ Daily Intelligence Brief** - Automated OSINT reporting system
+- **🕵️ Daily Brief** - Automated OSINT reporting system
 - **🤖 AI Business Automation** - Passive income through intelligent systems  
 - **🏠 Homelab Infrastructure** - Self-hosted everything, because fuck the cloud
 - **🧠 ML Experiments** - Teaching machines to solve ridiculous problems
