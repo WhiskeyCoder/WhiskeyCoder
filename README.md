@@ -1,16 +1,93 @@
-<div id="header" align="center">
-  <img src="https://media2.giphy.com/media/9GIE4bg4EV7UYFeP5B/giphy.gif?cid=ecf05e47zk367y6fonbkp0q24ayrrcwvjwp0sfzr6bv60aws&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300"/>
+# <div align="center">🥃 **WHISKEY CODER** 🥃</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F75C03&background=00000000&center=true&vCenter=true&width=600&lines=Security+%E2%86%92+Code+%E2%86%92+Chaos;Building+AI+Tools+%26+Automation;Whiskey-Fueled+Innovation;Problem+Solver+%7C+System+Breaker" alt="Typing SVG" />
 </div>
 
-<div id="header" align="center">
-<h3>Welcome to the Github of Whiskey Coder</h3> 
+<div align="center">
+  <img src="https://media2.giphy.com/media/9GIE4bg4EV7UYFeP5B/giphy.gif?cid=ecf05e47zk367y6fonbkp0q24ayrrcwvjwp0sfzr6bv60aws&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="400"/>
 </div>
 
- 
 ---
-### :man_technologist: About Me :
-I come from a security background, but once I picked up coding, I couldn’t put it down.  
-What started as whiskey-fueled curiosity turned into a collection of useful, chaotic, and surprisingly effective projects.
+
+## 🔥 **THE LEGEND**
+
+> **From Security → Code → Complete Mayhem**  
+> What started as whiskey-fueled curiosity became a collection of dangerously effective tools that probably shouldn't work... but absolutely do.
+
+```python
+class WhiskeyCoder:
+    def __init__(self):
+        self.background = "Security Professional"
+        self.current_state = "Code Obsessed"
+        self.fuel = "Good Whiskey + Bad Ideas"
+        self.motto = "Build first, ask permission never"
+        
+    def create_chaos(self):
+        return "Automated systems that solve problems you didn't know existed"
+```
+
+---
+
+## ⚡ **CURRENT ARSENAL**
+
+<div align="center">
+  
+| 🤖 **AI & ML** | 🔁 **Automation** | 🧪 **Experiments** |
+|:---:|:---:|:---:|
+| Local LLM Tools | Auto-Pusher Systems | Random ML Models |
+| Intelligence Analysis | Pipeline Automation | Pizza-Beer Optimization |
+| Agent Development | OSINT Workflows | "What If" Projects |
+
+</div>
+
+### **🎯 Active Projects:**
+- **🕵️ Daily Intelligence Brief** - Automated OSINT reporting system
+- **🤖 AI Business Automation** - Passive income through intelligent systems  
+- **🏠 Homelab Infrastructure** - Self-hosted everything, because fuck the cloud
+- **🧠 ML Experiments** - Teaching machines to solve ridiculous problems
+
+---
+
+## 🛠️ **WEAPON ARSENAL**
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,html,git,wordpress,tensorflow,pytorch,mongodb,elasticsearch,docker,linux,cloudflare,digitalocean&theme=dark" />
+</div>
+
+<div align="center">
+  
+**Core Stack:** `Python` • `MongoDB` • `Docker` • `n8n` • `Kali Linux`  
+**Specialties:** `OSINT` • `Threat Intel` • `ML/AI` • `Automation` • `System Administration`
+
+</div>
+
+---
+
+## 📊 **BATTLE STATS**
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WhiskeyCoder&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WhiskeyCoder&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WhiskeyCoder&theme=radical&hide_border=true&background=0d1117" alt="WhiskeyCoder's streak"/>
+</div>
+
+---
+
+## 🏆 **ACHIEVEMENTS UNLOCKED**
+
+<div align="center">
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=WhiskeyCoder&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 🌟 **LATEST ACTIVITY**
 
 Now, I build:
 - 🤖 AI-powered tools using local LLMs
@@ -18,13 +95,13 @@ Now, I build:
 - 🔁 Automated systems like **Auto-Pusher**
 - 🧪 Experiment-heavy code driven by curiosity
 - 🧱 Tools that solve problems I didn’t know I had (until I built them)
-- And something I just learned is called a code Pipeline ????
+- And mixed bag of "a very paticular set of skills" ????
 
 > My projects are built from problem-solving, boredom, or the occasional “What if I made this real?”
 > .... also i keep forgeting to setup any version control.... so what you see is what you get lol 
 
 
-### 💼 What I Bring
+## 💼 What I Bring
 
 - 👨‍💻 Security mindset, coder’s adaptability
 - ⚙️ Systems automation experience (Gitea, Git, Python)
@@ -32,46 +109,54 @@ Now, I build:
 - 🧰 A deep love for hands-on tooling, not just theory
 - :hammer_and_wrench: 3d Printing [Makerworld](https://makerworld.com/en/u/1366979090)
 
-### :hammer_and_wrench: Languages and Tools :
-<div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="Wordpress" alt="Wordpress" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="Tensorflow" alt="Tensorflow" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="PyCharm" alt="PyCharm" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cloudflare/cloudflare-original.svg" title="cloudflare" alt="cloudflare" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/digitalocean/digitalocean-original.svg" title="DigitalOcean" alt="DigitalOcean" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/elasticsearch/elasticsearch-original.svg" title="elasticsearch" alt="elasticsearch" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kali-Dark.svg" title="Kali" alt="Kali" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Windows-Dark.svg" title="Windows" alt="Windows" width="40" height="40"/>&nbsp;
-  <img src="https://avatars.githubusercontent.com/u/52133374?s=200" title="n8n" alt="n8n" width="40" height="40"/>&nbsp;
-</div>
-
-
-### 🧃 Off the Record
-I drink good whiskey, write questionable commits, and dream up tech that probably shouldn’t work — but does.
-> I didn’t go to school for this.  
-> I just didn’t wait for permission to build it anyway.
-
-
-### 📬 Contact: [Open an issue on any repo]
-WIP – Contact info coming soon.  
-But feel free to raise an issue on any repo I’ve built — I’ll see it.
-
-### ✨ Vibe Summary
-Gritty. Hands-on. Purpose-built.  
-I’m not a rockstar dev. I’m the dev you call when the stars are on fire and you want it working **before sunrise**.
-
-
-
-### :fire: My Stats :
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WhiskeyCoder&show_icons=true&theme=dark)
-
-<img src="https://raw.githubusercontent.com/WhiskeyCoder/WhiskeyCoder/output/snake.svg" alt="Snake animation" />
 
 ---
 
-### :writing_hand: Blog Posts :
-<h4 align="center"> Coming Soon<h4>
+## 🎯 **THE PHILOSOPHY**
+
+<div align="center">
+
+### *"I didn't go to school for this.*  
+### *I just didn't wait for permission to build it anyway."*
+
+**Gritty. Hands-on. Purpose-built.**  
+*Not a rockstar dev. The dev you call when the stars are on fire and you want it working before sunrise.*
+
+</div>
+
+---
+
+## 🥃 **OFF THE RECORD**
+
+- **🥃 Drinks:** Good whiskey, questionable decisions
+- **💻 Commits:** Chaotic but effective  
+- **🧠 Dreams:** Tech that shouldn't work... but does
+- **🎯 Mission:** Automate everything, question nothing
+
+---
+
+## 📬 **CONTACT & CHAOS**
+
+<div align="center">
+  
+[![GitHub](https://img.shields.io/badge/GitHub-WhiskeyCoder-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WhiskeyCoder)
+[![Issues](https://img.shields.io/badge/Got%20Questions%3F-Open%20an%20Issue-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WhiskeyCoder/WhiskeyCoder/issues)
+
+**Need something built that probably shouldn't exist?**  
+*Raise an issue on any repo. I'll see it.*
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/WhiskeyCoder/WhiskeyCoder/output/snake.svg" alt="Snake animation" />
+</div>
+
+<div align="center">
+  
+### ⭐ **If you like what you see, smash that star button like it owes you money** ⭐
+
+*Built with whiskey, powered by spite, maintained by stubbornness.*
+
+</div>
