@@ -62,21 +62,6 @@ class WhiskeyCoder:
 
 </div>
 
----
-
-## 📊 **BATTLE STATS**
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WhiskeyCoder&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WhiskeyCoder&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WhiskeyCoder&theme=radical&hide_border=true&background=0d1117" alt="WhiskeyCoder's streak"/>
-</div>
-
----
-
 ## 🏆 **ACHIEVEMENTS UNLOCKED**
 
 <div align="center">
@@ -108,6 +93,7 @@ Now, I build:
 - 🧠 Creative thinking under pressure
 - 🧰 A deep love for hands-on tooling, not just theory
 - :hammer_and_wrench: 3d Printing [Makerworld](https://makerworld.com/en/u/1366979090)
+- 🤖 Self-Hosting is king, Future Docker Projects [Here](https://hub.docker.com/u/whiskeycoder) 
 
 
 ---
