@@ -124,7 +124,7 @@ Now, I build:
 ## 📬 **CONTACT & CHAOS**
 
 <div align="center">
-  
+[!Blog](https://whiskeycoder.github.io)
 [![GitHub](https://img.shields.io/badge/GitHub-WhiskeyCoder-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WhiskeyCoder)
 [![Issues](https://img.shields.io/badge/Got%20Questions%3F-Open%20an%20Issue-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WhiskeyCoder/WhiskeyCoder/issues)
 
