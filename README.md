@@ -47,6 +47,8 @@ class WhiskeyCoder:
 - **🏠 Homelab Infrastructure** - Self-hosted everything, because fuck the cloud
 - **🧠 ML Experiments** - Teaching machines to solve ridiculous problems
 
+Some weeks, I get random ideas and create a simple project to solve a simple problem, whether its a single page or full function app. These can be compeltely different from the normal, see [Random Web Experiments](https://github.com/WhiskeyCoder/Random-Web-Experiments)
+
 ---
 
 ## 🛠️ **WEAPON ARSENAL**
